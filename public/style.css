@@ -12,4 +12,5 @@ button{
     background-color: #4CAF50;
     color: white;
     border-collapse: collapse;
+    cursor: pointer;
 }
