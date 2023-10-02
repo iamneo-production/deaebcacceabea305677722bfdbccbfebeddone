@@ -1,13 +1,13 @@
-.container{
+container{
   width: 300px;
-  margin: 20px
+  margin: 20px auto;
 }
-.input{
+input{
     width:300px;
     padding: 5px;
     margin-bottom: 10px;
 }
-.button{
+button{
     padding: 10px 20px;
     background-color: #4CAF50;
     color: white;
